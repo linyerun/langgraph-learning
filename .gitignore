@@ -11,3 +11,5 @@ wheels/
 
 # jetbrains product cache
 .idea
+
+.env
