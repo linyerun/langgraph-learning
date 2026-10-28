@@ -13,3 +13,5 @@ wheels/
 .idea
 
 .env
+
+.langgraph_api
